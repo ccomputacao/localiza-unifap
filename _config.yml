@@ -1,0 +1,16 @@
+title: Localiza Unifap
+description: Ajudando pessoas a se localizar na Universidade Federal do Amapá
+github_username: ccomputacao
+url: "https://ccomputacao.github.io/localiza-unifap"
+baseurl: '/localiza-unifap'
+markdown: kramdown
+highlight: rouge
+paginate: 10
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+exclude:
+  - README.md

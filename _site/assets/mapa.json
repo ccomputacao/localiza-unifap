@@ -1,0 +1,16 @@
+[{
+  "position": [
+    [-0.002400, -51.083350],
+    [-0.002475, -51.082385],
+    [-0.004125, -51.082495],
+    [-0.004060, -51.083470]
+  ],
+  "options": {
+    "fillColor": "#36ba40",
+    "fillOpacity": "0.2",
+    "weight": 0
+  },
+  "name": "Quadra de Esportes",
+  "description":
+    "Quadra de Esportes da UNIFAP, geralmente fica aberta entre as 16h e 21h"
+}]
