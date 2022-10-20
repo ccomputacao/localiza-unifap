@@ -1,0 +1,18 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"_sass/main.scss",
+		"_sass/_header.scss",
+		"_sass/_mapa.scss"
+	],
+	"sourcesContent": [
+		"@import 'main';\n",
+		"@import \"header\";\n@import \"mapa\";\n\nbody { margin: 0; }\n#default-main { padding: 40px 30px; }\n",
+		"#default-header {\n  background: lightgray;\n  border-bottom: 1px solid gray;\n  padding: 10px;\n}\n\n#default-header h1 {\n  margin: 0;\n}\n",
+		"#map {\n  width: 100%;\n  height: 80vh;\n}\n"
+	],
+	"names": [],
+	"mappings": "AEAA,AAAA,eAAe,CAAC,EACd,UAAU,EAAE,SAAS,EACrB,aAAa,EAAE,cAAc,EAC7B,OAAO,EAAE,IAAI,GACd;;AAED,AAAA,eAAe,CAAC,EAAE,CAAC,EACjB,MAAM,EAAE,CAAC,GACV;;ACRD,AAAA,IAAI,CAAC,EACH,KAAK,EAAE,IAAI,EACX,MAAM,EAAE,IAAI,GACb;;AFAD,AAAA,IAAI,CAAC,EAAE,MAAM,EAAE,CAAC,GAAI;;AACpB,AAAA,aAAa,CAAC,EAAE,OAAO,EAAE,SAAS,GAAI"
+}
