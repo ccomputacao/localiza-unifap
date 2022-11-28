@@ -1,16 +1,190 @@
 [{
-  "position": [
-    [-0.002400, -51.083350],
-    [-0.002475, -51.082385],
-    [-0.004125, -51.082495],
-    [-0.004060, -51.083470]
+  "position" : [
+    [-0,002400, -51,083350],
+    [-0,002475, -51,082385],
+    [-0,004125, -51,082495],
+    [-0,004060, -51,083470]
   ],
-  "options": {
-    "fillColor": "#36ba40",
-    "fillOpacity": "0.2",
-    "weight": 0
+  "options" : {
+    "fillColor" : "#36ba40" ,
+    "fillOpacity" : "0.2" ,
+    "weight" : 0
   },
-  "name": "Quadra de Esportes",
-  "description":
-    "Quadra de Esportes da UNIFAP, geralmente fica aberta entre as 16h e 21h"
-}]
+  "name" : "Quadra de Esportes",
+  "description" :
+     "Quadra de Esportes da UNIFAP, geralmente fica aberta entre às 16h e 21h"
+}, {
+  "position" : [
+    [-0.003044, -51.084007],
+    [-0.003045, -51.084439],
+    [-0.002823, -51.084439],
+    [-0.002823, -51.084008]
+  ],
+  "options" : {
+    "fillColor" : "#073cb8" ,
+    "fillOpacity" : "0.2" ,
+    "weight" : 0
+  },
+  "name" : "Ciência da Computação e Engenharia Elétrica",
+  "description" :
+     "Bloco Acadêmico dos cursos de Ciência da Computação e Engenharia Elétrica"
+}, {
+    "position" : [
+      [-0.003037, -51.084720],
+      [-0.003039, -51.084937],
+      [-0.002605, -51.084940],
+      [-0.002603, -51.084724]
+    ],
+    "options" : {
+      "fillColor" : "#c7d104" ,
+      "fillOpacity" : "0.2" ,
+      "weight" : 0
+    },
+    "name" : "Arquitetura e Engenharia Civil",
+    "description" :
+       "Bloco Acadêmico dos cursos de Arquitetura e Urbanismo e Engenharia Civil"
+  }
+  {
+    "position" : [
+      [-0.003001, -51.085013],
+      [-0.003001, -51.085190],
+      [-0.002670, -51.085191],
+      [-0.002671, -51.085015]
+    ],
+    "options" : {
+      "fillColor" : "#04d18d" ,
+      "fillOpacity" : "0.2" ,
+      "weight" : 0
+    },
+    "name" : "Laboratório de Engenharia",
+    "description" :
+       "Fechado"
+  }
+  {
+    "position" : [
+      [-0.004293, -51.083895],
+      [-0.004297, -51.084519],
+      [-0.004066, -51.084521],
+      [-0.004061, -51.083898]
+    ],
+    "options" : {
+      "fillColor" : "#02c415" ,
+      "fillOpacity" : "0.2" ,
+      "weight" : 0
+    },
+    "name" : "DEPLA",
+    "description" :
+       "Departamento de Letras e Artes da UNIFAP"
+  }
+  {
+    "position" : [
+      [-0.004621, -51.083884],
+      [-0.004620, -51.084128],
+      [-0.004448, -51.084128],
+      [-0.004449, -51.083884]
+    ],
+    "options" : {
+      "fillColor" : "#686e69" ,
+      "fillOpacity" : "0.2" ,
+      "weight" : 0
+    },
+    "name" : "Garagem",
+    "description" :
+       "Garagem Central da UNIFAP"
+  }
+  {
+    "position" : [
+      [-0.004592, -51.084616],
+      [-0.004622, -51.085297],
+      [-0.004267, -51.085312],
+      [-0.004242, -51.084629]
+    ],
+    "options" : {
+      "fillColor" : "#c904c0" ,
+      "fillOpacity" : "0.2" ,
+      "weight" : 0
+    },
+    "name" : "Pedagogia",
+    "description" :
+       "Bloco Acadêmico do curso de Pedagogia"
+  }
+  {
+    "position" : [
+      [-0.005031, -51.083869],
+      [-0.005031, -51.084109],
+      [-0.004914, -51.084110],
+      [-0.004916, -51.083869]
+    ],
+    "options" : {
+      "fillColor" : "#3b3937" ,
+      "fillOpacity" : "0.2" ,
+      "weight" : 0
+    },
+    "name" : "Almoxarifado",
+    "description" :
+       "Almoxarifado Central da UNIFAP"
+  }
+  {
+    "position" : [
+      [-0.005223, -51.084687],
+      [-0.005223, -51.084935],
+      [-0.004970, -51.084933],
+      [-0.004972, -51.084685]
+    ],
+    "options" : {
+      "fillColor" : "#756556" ,
+      "fillOpacity" : "0.2" ,
+      "weight" : 0
+    },
+    "name" : "Patrimônio",
+    "description" :
+       "Coordenação de Patrimônio e Almoxarifado"
+  }
+  {
+    "position" : [
+      [-0.005366, -51.083935],
+      [-0.005367, -51.084650],
+      [-0.005251, -51.084648],
+      [-0.005249, -51.083933]
+    ],
+    "options" : {
+      "fillColor" : "#12b81b" ,
+      "fillOpacity" : "0.2" ,
+      "weight" : 0
+    },
+    "name" : "Ciências Ambientais",
+    "description" :
+       "Bloco Acadêmico do curso de Ciências Ambientais"
+  }
+  {
+    "position" : [
+      [-0.005528, -51.084301],
+      [-0.005530, -51.084829],
+      [-0.005412, -51.084829],
+      [-0.005412, -51.084304]
+    ],
+    "options" : {
+      "fillColor" : "#1143a8" ,
+      "fillOpacity" : "0.2" ,
+      "weight" : 0
+    },
+    "name" : "Física",
+    "description" :
+       "Bloco Acadêmcico do curso de Física "
+  }
+  {
+    "position" : [
+      [],
+      [],
+      [],
+      []
+    ],
+    "options" : {
+      "fillColor" : "" ,
+      "fillOpacity" : "0.2" ,
+      "weight" : 0
+    },
+    "name" : "",
+    "description" :
+       ""
+  }]
